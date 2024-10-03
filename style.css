@@ -4,21 +4,21 @@ body {
 .container {
     display:flex;
     flex-direction: column;
-    width:60%;
+    width:40%;
     margin:auto;
-    background-color: hsl(270, 75%, 2%);
-    color:rgb(81, 0, 255);
+    background-color: hsl(270, 86%, 44%);
+    color:rgb(131, 129, 138);
 }
 .about_me_input {
     display:flex;
     justify-content:center;
-    width:120%;
-background-color: #784caf;
-        color:  #fff; 
+    width:40%;
+background-color: #a31776;
+        color:  #840c0c; 
 
 }
 .background-div{
-    width:80%;
+    width:100%;
     background-image: url('corny in the beach.jpg');
     background-size: cover; 
     background-size: cover; /* Ensures the image covers the entire div */
@@ -27,28 +27,28 @@ background-color: #784caf;
     display: flex; /* Allows for centering content */
     align-items: center; /* Center vertically */
     justify-content: center; /* Center horizontally */
-    color: rgb(21, 19, 151);  
+    color: #0716bf;  
 
 }
 
 .pupil {
     display:flex;
-    flex-direction: column;
-    width:60%;
+    flex-direction: center;
+    width:100%;
     margin:auto;
-    background-color: hsl(255, 90%, 46%);
-    color:rgb(19, 17, 17);
+    background-color: hsl(352, 51%, 67%);
+    color:rgb(80, 5, 18);
 }
 
 .young_mother {
     display:flex;
     justify-content:center;
-    width:120%;
+    width:100%;
 background-color: #af4c5c;
         color:  #0c0b0b;
     }
     .sport-div {
-    width:65%;
+    width:100%;
     background-image: url('corny gi omondi.jpg');
     background-size: cover; /* Ensures the image covers the entire div */
     background-position: center; /* Centers the image */
@@ -56,32 +56,177 @@ background-color: #af4c5c;
     display: flex; /* Allows for centering content */
     align-items: center; /* Center vertically */
     justify-content: center; /* Center horizontally */
-    color: rgb(19, 61, 151); } 
+    color: hsl(240, 94%, 49%); } 
 
     .luke {
     display:flex;
     flex-direction: column;
-    width:65%;
+    width:100%;
     margin:auto;
-    background-color: hsl(43, 90%, 46%);
-    color:rgb(19, 17, 17);}
+    background-color: hsl(162, 80%, 39%);
+    color:hsl(156, 92%, 10%);}
 
     .pounds{
     display:flex;
     justify-content:center;
-    width:75%;
-background-color: #704caf;
-        color:  #0b0c0b;}
+    width:100%;
+background-color: #171818;
+        color:  hsl(120, 91%, 50%);
+        margin:auto;
+    }
+    .life-div {
+        width:100%;
+    background-image: url('corny gi omondi.jpg');
+    background-size: cover; /* Ensures the image covers the entire div */
+    background-position: center; /* Centers the image */
+    height: 56vh; /* Full viewport height */
+    display: flex; /* Allows for centering content */
+    align-items: center; /* Center vertically */
+    justify-content: center; /* Center horizontally */
+    color: hsl(247, 93%, 48%); } 
 
-    .my_life_in_u.k {
-        width:65%;
-        background-image: url('videos/life in England.mp4');
-        background-size: cover; 
+        .Glass {
+            display:flex;
+            flex-direction: column;
+            width:100%;
+            margin:auto;
+            background-color: hsl(26, 85%, 42%);
+            color:rgb(112, 22, 22);
+        }
+         
+
+           .school{
+                display:flex;
+                justify-content:center;
+                width:100%;
+            background-color: hsl(151, 90%, 8%);
+                    color:  hsl(120, 91%, 36%);
+                    margin:auto;}
+
+.high-div{
+    display:flex;
+    justify-content: center;
+    width:100%;
+    margin:auto;
+    background-color:rgb(255, 0, 76)
+    }
+   
+ .tiles{
+        display:flex;
+        justify-content: center;
+        width:100%;
+        margin:auto;
+        background-color:rgb(139, 9, 13)}
+
+        .tiles{
+        width:100%;
+        background-image: url('corny in the beach.jpg');
         background-size: cover; /* Ensures the image covers the entire div */
         background-position: center; /* Centers the image */
         height: 56vh; /* Full viewport height */
         display: flex; /* Allows for centering content */
         align-items: center; /* Center vertically */
         justify-content: center; /* Center horizontally */
-        color: rgb(92, 15, 185); }  
-    
+        color: #1010f1; }
+
+
+  .tight{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    margin:auto;
+    background-color: #7c1b1b;}
+
+    .tight{
+        width:100%;
+        background-image: url('corny in the beach.jpg');
+        background-size: cover; /* Ensures the image covers the entire div */
+        background-position: center; /* Centers the image */
+        height: 56vh; /* Full viewport height */
+        display: flex; /* Allows for centering content */
+        align-items: center; /* Center vertically */
+        justify-content: center; /* Center horizontally */
+        color: hsl(240, 86%, 49%); }
+
+
+  .slipper-div{
+    display:flex;
+    justify-content: center;
+    width:100%;
+    margin:auto;
+    background-color:#e01f3fc0
+  }
+  
+
+  .loose{
+    display:flex;
+    justify-content: center;
+    width:100%;
+    margin:auto;
+    background-color: #860a0e;
+  }
+  .nash-div{
+    display:flex;
+    justify-content: center;
+    width:100%;
+    margin:auto;
+    background-color:#ef1111
+  }
+.nash-div{
+  width:100%;
+  background-image: url('corny in the beach.jpg');
+  background-size: cover; /* Ensures the image covers the entire div */
+  background-position: center; /* Centers the image */
+  height: 56vh; /* Full viewport height */
+  display: flex; /* Allows for centering content */
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  color: rgb(15, 15, 230); }
+   
+  .pen{
+    display:flex;
+    justify-content: center;
+    width:100%;
+    margin:auto;
+    background-color:#544978;
+  }
+
+
+  .ink{
+    display: flex;
+    justify-content: center;
+    width:100%;
+    margin:auto;
+    background-color: #d31515;
+  }
+   
+  
+
+  .fountain-div{
+    display:flex;
+    justify-content: center;
+    width:100% ;
+    margin:auto;
+    background-color:#af4c5c
+  }
+  .fountain-div{
+  width:100%;
+  background-image: url('corny in the beach.jpg');
+  background-size: cover; /* Ensures the image covers the entire div */
+  background-position: center; /* Centers the image */
+  height: 56vh; /* Full viewport height */
+  display: flex; /* Allows for centering content */
+  align-items: center; /* Center vertically */
+  justify-content: center; /* Center horizontally */
+  color: #1010c0; }
+
+  .water-container {
+    width: 30x;
+    height: 20px;
+    overflow: hidden;
+    position: relative;
+    border-radius: 10px;
+    background-color: #d13144; /* Light blue or the container */
+    box-shadow: 0 0 20px rgba(237, 26, 26, 0.847)}
+
+
